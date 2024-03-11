@@ -9,6 +9,6 @@ El _flujo de trabajo de GitHub_ es el siguiente:
 * Hacer un merge.
 
 En el siguiente enlace usted puede crear una cuenta de [GitHUB][https://github.com/] 
-[![Alt text](https://img.youtube.com/vi/vUX5u_4B2AM/0.jpg)](https://www.youtube.com/watch?v=vUX5u_4B2AM)
+[![Alt text](https://img.youtube.com/vi/qdec2M4NwT0/0.jpg)](https://www.youtube.com/watch?v=qdec2M4NwT0)
 
 Autor: Santiago Pérez Oviedo
